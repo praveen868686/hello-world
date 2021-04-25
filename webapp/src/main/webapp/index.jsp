@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <title>DEV OPS PROJECT</title>
 <h1> Hello, Welcome to Simple DevOps Project !!   </h1>
-<h2> LOVE YOU MY BUNNY </h2>
+<h2> Jenkins JOB auto deployment </h2>
 <h2>This phase too shall pass </h2>
   </head>
   <body>
