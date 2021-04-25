@@ -1,8 +1,4 @@
 
-
-
-
-
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>
@@ -16,11 +12,13 @@
       <div class = "container">
     <div class = "text-center container">
       <br>
-      <h2 class = "text-center">Search for your favorite Meals</h2>
+      <h2 class = "text-center">Search anything here - Work in progress</h2>
       <br>
       <form method="GET">
         <input type = "text" name = "name" placeholder="Search..." class = "text-center">
         <button type = "submit" class = "btn-danger btn-sm">SUMBIT</button>
+
+<img class="card-img-top" src="https://ichef.bbci.co.uk/news/976/cpsprodpb/100E0/production/_114306756_gettyimages-482829557.jpg" alt="Card image cap">
       </form>
     </div>
 </div>
