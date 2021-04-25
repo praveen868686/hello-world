@@ -5,8 +5,8 @@
     <meta charset="utf-8">
     <title>DEV OPS PROJECT</title>
 <h1> Hello, Welcome to Simple DevOps Project !!   </h1>
-<h2> Continous Integration done through Jenkins </h2>
-<h2>This is the updated code triggered automatically </h2>
+<h2> LOVE YOU MY BUNNY </h2>
+<h2>This phase too shall pass </h2>
   </head>
   <body>
       <div class = "container">
